@@ -62,5 +62,5 @@ Broadcast: 192.168.0.15
 ![nginx](scr/nginx.png)
 
 ###  Блокировка запроса на 80 порт
-![80port](src/80.png)
+![80port](scr/80.png)
 
